@@ -1,0 +1,32 @@
+{
+  "name": "@eklingen/nunjucks-dependencies",
+  "version": "1.0.0",
+  "description": "Return a list of dependencies from a (list of) Nunjucks template(s)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eklingen/nunjucks-dependencies.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Elco Klingen",
+  "license": "MIT",
+  "homepage": "https://github.com/eklingen/nunjucks-dependencies#readme",
+  "bugs": {
+    "url": "https://github.com/eklingen/nunjucks-dependencies/issues"
+  },
+  "keywords": [
+    "nunjucks",
+    "templates",
+    "dependencies",
+    "list"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "CHANGELOG.md"
+  ],
+  "type": "module",
+  "packageManager": "yarn@4.1.1",
+  "dependencies": {}
+}

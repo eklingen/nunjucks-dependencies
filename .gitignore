@@ -1,0 +1,15 @@
+
+# OSX Metadata files
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Yarn v3 ignore list for Not-ZeroInstalls
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+yarn-error.log
