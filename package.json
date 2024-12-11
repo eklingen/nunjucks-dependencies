@@ -1,6 +1,6 @@
 {
   "name": "@eklingen/nunjucks-dependencies",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "description": "Return a list of dependencies from a (list of) Nunjucks template(s)",
   "repository": {
     "type": "git",
